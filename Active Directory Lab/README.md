@@ -27,8 +27,8 @@
 - Forwarded logs to Splunk
 
 * Splunk
-** Installed on Ubuntu
-** Configured data inputs
+- Installed on Ubuntu
+- Configured data inputs
 
 * Verified ingestion of:
 - Security logs
