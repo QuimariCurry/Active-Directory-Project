@@ -21,16 +21,16 @@
 - Enabled RDP
 - Configured authentication policies
 
-*Windows 11 Endpoint
+* Windows 11 Endpoint
 - Installed Sysmon
 - Configured Sysmon XML
 - Forwarded logs to Splunk
 
-*Splunk
-- Installed on Ubuntu
-- Configured data inputs
+* Splunk
+** Installed on Ubuntu
+** Configured data inputs
 
-*Verified ingestion of:
+* Verified ingestion of:
 - Security logs
 - Sysmon logs
 - System logs
